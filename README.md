@@ -1,2 +1,2 @@
 # STOCK-CHART-PATTERN-USING-COMPUTER-VISION
-![plot](.download.png)
+![plot](https://github.com/9834703848/STOCK-CHART-PATTERN-USING-COMPUTER-VISION/blob/master/download.png)
